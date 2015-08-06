@@ -21,7 +21,7 @@ description: "Мотосервис, прокат мотоциклов, энду�
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "https://enduro-service.github.io/enduro-service"
+url: "https://enduro-service.github.io"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
@@ -34,7 +34,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: "http://enduro-service.github.io/enduro-service/images/"
+urlimg: "http://enduro-service.github.io/images/"
 
 
 # Logo size is 600x80 pixels
@@ -81,11 +81,11 @@ exclude:
 defaults:
   -
     scope:
-      path: "" 				# an empty string here means all files in the project
+      path: ""        # an empty string here means all files in the project
       type: "pages"
     values:
-      show_meta: true 	# Show metadata beneath all pages
-      # sidebar:    		# Possible values › left, right › by default there will be no sidebar
+      show_meta: true   # Show metadata beneath all pages
+      # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: "your_author_name"
   -
