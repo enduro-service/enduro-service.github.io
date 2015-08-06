@@ -1,0 +1,28 @@
+- title: Новости
+  url: "/blog/"
+  side: left
+
+- title: Сервис
+  url: "/service/"
+  side: left
+
+- title: "Прокат"
+  url: "/hire/"
+  side: left
+
+- title: "Обучение"
+  url: "#"
+  side: left
+  dropdown:
+  - title: "Эндуро"
+    url: "/study/enduro/"
+  - title: "Мотокросс"
+    url: "/study/motocross/"
+
+- title: Эвакуация
+  url: "/evacuation/"
+  side: left
+
+- title: "Контакты"
+  url: "/contact/"
+  side: right
