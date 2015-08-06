@@ -2,6 +2,7 @@
 layout: page
 show_meta: false
 title: "Перевозка мототехники"
+teaser: ""
 header: no
 image:
     title: auto.jpg
