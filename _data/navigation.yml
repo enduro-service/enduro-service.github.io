@@ -10,18 +10,14 @@
   url: "/hire/"
   side: left
 
-- title: "Обучение"
-  url: "#"
+- title: "Обучение эндуро"
+  url: "/study/enduro/"
   side: left
-  dropdown:
-  - title: "Эндуро"
-    url: "/study/enduro/"
-  - title: "Мотокросс"
-    url: "/study/motocross/"
-
-- title: Эвакуация
-  url: "/evacuation/"
-  side: left
+#  dropdown:
+# - title: "Эндуро"
+#    url: "/study/enduro/"
+#  - title: "Мотокросс"
+#    url: "/study/motocross/"
 
 - title: "Контакты"
   url: "/contact/"
