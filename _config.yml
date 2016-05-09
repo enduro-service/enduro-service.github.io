@@ -21,7 +21,7 @@ description: "Мотосервис, прокат мотоциклов, энду�
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "https://enduro-service.github.io"
+url: "http://enduro-service.github.io"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
