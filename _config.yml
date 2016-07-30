@@ -145,3 +145,5 @@ apple-touch-icon-precomposed:           "apple-touch-icon-precomposed.png"
 msapplication_tileimage:                "msapplication_tileimage.png"               # Size 144x144
 msapplication_tilecolor:                "#fabb00"
 
+gems:
+  - jekyll-redirect-from
