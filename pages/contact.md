@@ -4,7 +4,7 @@ show_meta: false
 title: Контакты
 header: 'no'
 permalink: /contact/
-published: true
+published: false
 ---
 
 <div markdown="1">
