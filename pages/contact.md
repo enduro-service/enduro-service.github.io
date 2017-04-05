@@ -2,9 +2,9 @@
 layout: page
 show_meta: false
 title: Контакты
-header: "no"
+header: 'no'
 permalink: /contact/
-published: true
+published: false
 ---
 
 <div markdown="1">
@@ -15,6 +15,6 @@ published: true
 Прокат мотоциклов эндуро, кросс, триал. Уроки внедорожной езды.
 
 Адрес:  
-Московская область, Солнечногорский район, д. Брёхово, 20 км. от МКАД, Мотокомплекс "<a href="http://motokutuzov.ru">Кутузовский редут</a>"
+Москва, Митино, ул. Дубравная, 50А. Мотоклуб "<a href="http://enduro-zona.ru">ENDURO-ZONA</a>"
 </div>
-<script type="text/javascript" charset="utf-8" src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=ZN5vgdEXEPUtkW6yZ5CPpX3ydbTIcg_O&width=600&height=450"></script>
+<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Aba1db67cbd2148a25d27921513bf26b02071901fce0d721f38563e79b081961c&amp;width=600&amp;height=450&amp;lang=ru_RU&amp;scroll=true"></script>​<script type="text/javascript" charset="utf-8" src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=ZN5vgdEXEPUtkW6yZ5CPpX3ydbTIcg_O&width=600&height=450"></script>
